@@ -3,7 +3,8 @@
 <img src="6f0c3c0d89b37e1d0fbdd805f114eb359dc0e539_crop.gif" width="960" height="298" />
 
 Peter Laust Almvig
- ____________________________
+```
+____________________________
 < Welcome to my GitHub Profile >
  ------------------------------
   \                                  ,+*^^*+___+++_
@@ -28,7 +29,7 @@ Peter Laust Almvig
                      _) >____) >___   ^\_\_\_\_\_\_\)
                     ^^^//\\_^^//\\_^       ^(\_\_\_\)
                       ^^^ ^^ ^^^ ^
-
+```
 - 🔭 I’m currently working on [AU Dolphins](https://github.com/AU-Dolphins-Racing-Team)
 
 <h3 align="left">Languages and Tools:</h3>
