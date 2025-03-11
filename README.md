@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SejDreng</h1>
 <h3 align="center">Computer engineering student from Aarhus, Denmark</h3>
-<img src="6f0c3c0d89b37e1d0fbdd805f114eb359dc0e539.gif" width="1280" height="720" />
+<img src="6f0c3c0d89b37e1d0fbdd805f114eb359dc0e539_crop.gif" width="960" height="298" />
 
 
 - 🔭 I’m currently working on [AU Dolphins](https://github.com/AU-Dolphins-Racing-Team)
