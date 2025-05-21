@@ -31,7 +31,7 @@
 ```
 - 🔭 I’m currently working on [AU Dolphins](https://github.com/AU-Dolphins-Racing-Team)
 
-[![SejDreng's GitHub stats](https://github-readme-stats.vercel.app/api?SejDreng=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![SejDreng's GitHub stats](https://github-readme-stats.vercel.app/apiSejDreng=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
