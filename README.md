@@ -1,6 +1,7 @@
-<p align="center">
+
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">Computer engineering student from Aarhus, Denmark</h3>
+<p align="center">
 <img src="6f0c3c0d89b37e1d0fbdd805f114eb359dc0e539_crop.gif" width="960" height="298" />
 
 ```
