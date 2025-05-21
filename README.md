@@ -35,7 +35,7 @@
 - 🔭 I’m currently working on [AU Dolphins](https://github.com/AU-Dolphins-Racing-Team)
 
 ![SejDreng's GitHub stats](https://github-readme-stats.vercel.app/api?username=SejDreng&theme=gruvbox&border=true&show_icons=true&hide_border=true&count_private=true)
-![SejDreng's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SejDreng&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+![SejDreng's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SejDreng&theme=gruvbox&show_icons=true&hide_border=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
