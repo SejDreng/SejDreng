@@ -34,8 +34,8 @@
 ```
 - 🔭 I’m currently working on [AU Dolphins](https://github.com/AU-Dolphins-Racing-Team)
 
-![SejDreng's GitHub stats](https://github-readme-stats.vercel.app/api?username=SejDreng&border=true&layout=compact)
-![SejDreng's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SejDreng&border=true&layout=compact)
+![SejDreng's GitHub stats](https://github-readme-stats.vercel.app/api?username=SejDreng&theme=merko&border=true&layout=compact)
+![SejDreng's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SejDreng&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 
 <h3 align="left">Languages and Tools:</h3>
